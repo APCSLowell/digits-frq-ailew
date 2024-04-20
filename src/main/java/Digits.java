@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class Digits
 {
 
-	private ArrayList<Integer> digitList;
+	private ArrayList<Integer> digitLists;
 
 	public Digits(int num){
 		digitLists = new ArrayList <Integer>();
